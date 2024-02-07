@@ -12,8 +12,8 @@
 - Mentori : Ognjen Pavić, dr. Tijana Geroski.
 
 
-- Okruženje nad kojim je testiran projekat je Anaconda 2.3.10 i 
-- Ekstenzije moguće potrebne (za skidanje ekstenzija potrebna je jača internet konekcija možda jača od 50Mbps):
+- Okruženje nad kojim je testiran projekat je `Anaconda3-2023.09-0...` i 
+- Ekstenzije moguće potrebne (za skidanje ekstenzija potrebna je jača internet konekcija - možda jača od 50Mbps):
 ```
 matplotlib
 numpy
