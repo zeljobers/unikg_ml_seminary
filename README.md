@@ -10,3 +10,22 @@
     - Support Vector Machine
 
 - Mentori : Ognjen Pavić, dr. Tijana Geroski.
+
+
+- Okruženje nad kojim je testiran projekat je Anaconda 2.3.10 i 
+- Ekstenzije moguće potrebne (za skidanje ekstenzija potrebna je jača internet konekcija možda jača od 50Mbps):
+```
+matplotlib
+numpy
+tensorflow
+keras
+scikit-learn
+dark-searchcv
+category_encoders
+ultralytics
+seaborn
+mpl-scatter-density
+scipy
+keras-gpu
+```
+Ako i dalje ne štima nešto videti/upotrebiti (pri importu kao environment) `conda-reqs.yaml`.
